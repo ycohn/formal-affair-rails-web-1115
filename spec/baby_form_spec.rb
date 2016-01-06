@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'spec_helper' 
 
 feature 'baby form' do
   it 'uses the form_for helper' do

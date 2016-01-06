@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'spec_helper' 
 
 feature 'concrete form' do
   it 'uses the form_tag helper' do
